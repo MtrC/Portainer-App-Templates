@@ -1059,7 +1059,7 @@
 					"label": "API Password"
 				}
 			]
-		}
+		},
         {
 			"type": 1,
 			"title": "Adguardhome-sync",
